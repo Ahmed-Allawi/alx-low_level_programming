@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * comment
- * this is my first comment here
+ * main - main part
+ * Return: 0
  */
 int main(void)
 {
